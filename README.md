@@ -52,10 +52,16 @@ Resistance=0.5 ohm
 Vin = 220 Vrms at 50Hz (312 Vp)
 <img width="940" height="349" alt="image" src="https://github.com/user-attachments/assets/b2bb32b7-4bbf-4398-a2eb-a14853f5205a" />
 ## Simulation
+![WhatsApp Image 2026-03-18 at 7 56 09 PM](https://github.com/user-attachments/assets/b487413c-d558-4e09-a385-2fb099bc650c)
+
 
 ## Output
+![WhatsApp Image 2026-03-18 at 8 03 05 PM](https://github.com/user-attachments/assets/e590073b-3390-4e9a-8186-418765422dd3)
+
+
 
 ## Result
+thus this expirement will verified successfully.
 
 
 
